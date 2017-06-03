@@ -1,0 +1,6 @@
+D:\Tashfeen\DevOps Training Material\C# Projects\While Iteration Statement\While Iteration Statement\bin\Debug\While Iteration Statement.exe.config
+D:\Tashfeen\DevOps Training Material\C# Projects\While Iteration Statement\While Iteration Statement\bin\Debug\While Iteration Statement.exe
+D:\Tashfeen\DevOps Training Material\C# Projects\While Iteration Statement\While Iteration Statement\bin\Debug\While Iteration Statement.pdb
+D:\Tashfeen\DevOps Training Material\C# Projects\While Iteration Statement\While Iteration Statement\obj\Debug\While Iteration Statement.csprojResolveAssemblyReference.cache
+D:\Tashfeen\DevOps Training Material\C# Projects\While Iteration Statement\While Iteration Statement\obj\Debug\While Iteration Statement.exe
+D:\Tashfeen\DevOps Training Material\C# Projects\While Iteration Statement\While Iteration Statement\obj\Debug\While Iteration Statement.pdb
